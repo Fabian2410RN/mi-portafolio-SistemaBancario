@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\logicaDeAccesoADatos",
+    "\\src\\main\\java\\logicaDeNegocios"
+  ],
+  "SelectedNode": "\\src\\main\\java\\logicaDeAccesoADatos\\ConexionBaseDeDatos.java",
+  "PreviewInSolutionExplorer": false
+}
